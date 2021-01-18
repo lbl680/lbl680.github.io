@@ -15,5 +15,5 @@ Pursuing my master degree at South China University of Technology, China.
 To be continued...
 
 ## More information
-To view more information about me, please refer to (https://csyhquan.github.io/category/group.html)
+To view more information about me, please refer to [https://csyhquan.github.io/category/group.html](https://csyhquan.github.io/category/group.html)
 
